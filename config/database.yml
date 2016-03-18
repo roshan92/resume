@@ -7,7 +7,7 @@ default: &default
 
 development:
   <<: *default
-  database: fresh-auth-backend_development
+  database: resume_development
   username: roshan
 #
 # production:

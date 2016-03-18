@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.6'
 
 gem 'spring', :group => :development
-
+gem 'pg'
 # To use ActiveModel has_secure_password
 gem 'bcrypt'
 gem 'pry-rails'
